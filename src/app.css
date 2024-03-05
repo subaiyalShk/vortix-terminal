@@ -1,9 +1,9 @@
 :root {
-  font: 1.3rem Inconsolata, monospace;
+  font: 1.3rem monospace;
   font-weight: 400;
-  color: green;
+  color: white;
   background-color: black;
-  text-shadow: 0 0 2px #C8C8C8;
+  text-shadow: 0 0 1px #C8C8C8;
 }
 
 body {
